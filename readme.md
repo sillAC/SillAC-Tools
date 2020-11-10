@@ -70,5 +70,5 @@ The character profiles can include a file that will be loaded 5 seconds (for now
 
 There's other stuff out there that accomplishes the same, but this lets you do it based on the name/account/server regex, which gives a different (easier for me) way of grouping characters together.
 
-![Login demo](https://imgur.com/mHcZg1n)
+[Login commands demo](https://imgur.com/mHcZg1n)
 
